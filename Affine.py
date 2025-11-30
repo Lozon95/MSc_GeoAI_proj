@@ -1,10 +1,3 @@
-"""
-Student: Loa Andersson
-Course: NGEN27
-Exercise: GeoAI Project
-Date: 2024-12-18
-Examiner: Rachid Oucheikh
-"""
 ####################################################################
 ############ Import libraries ######################################
 ####################################################################
@@ -148,6 +141,7 @@ for folder in os.listdir(dataset_dir):
         augment_images(folder_path)
 
 print("Augmentation completed.")
+
 
 
 
