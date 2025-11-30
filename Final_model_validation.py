@@ -1,11 +1,3 @@
-"""
-Student: Loa Andersson
-Course: NGEN27
-Exercise: GeoAI Project
-Date: 2024-12-26
-Examiner: Rachid Oucheikh
-"""
-
 import os
 import shutil
 import random
@@ -233,3 +225,4 @@ for i, file_path in enumerate(sample_images):
 
 plt.tight_layout()
 plt.show()
+
