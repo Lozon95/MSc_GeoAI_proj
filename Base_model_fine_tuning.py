@@ -1,10 +1,3 @@
-"""
-Student: Loa Andersson
-Course: NGEN27
-Exercise: GeoAI Project
-Date: 2024-12-26
-Examiner: Rachid Oucheikh
-"""
 ####################################################################
 ############ Import libraries ######################################
 ####################################################################
@@ -291,6 +284,7 @@ print(f"Accuracy: {accuracy}")
 print(f"Precision: {precision}")
 print(f"Recall: {recall}")
 print(f"F1: {f1}")
+
 
 
 
