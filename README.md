@@ -1,6 +1,6 @@
 # MSc Project – GeoAI Soil Classification
 
-This repository contains my MSc project in Geomatics (GIS & Remote Sensing).  
+This repository contains a MSc course project in Geospatial AI.  
 The project explores soil classification using **Convolutional Neural Networks (CNNs)** and **transfer learning with VGG16**.  
 
 ## 📂 Structure
